@@ -1,15 +1,18 @@
 # hello-world
-Just another repository
-
-Hi humans!
-
-I am from Galaxy M486
-
-Thu 12 Oct 2017 03:42:00 PM CST
-This is the first time to use terminal git.
-
-Chage File in Branch
-Test git diff
-
 It's very **easy** to make some words **bold** and other words *italic* with *Markdown*. You can even [link to Google!](http://google.com)
-[Crick here](http://baidu.com)
+
+# Header
+# This is an <h1> title
+## This is an <h2> tag
+###### This is an <h6> tag
+
+#Emphasis
+
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+
