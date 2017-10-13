@@ -9,5 +9,6 @@ Thu 12 Oct 2017 03:42:00 PM CST
 This is the first time to use terminal git.
 
 Chage File in Branch
+Test git diff
 
 
